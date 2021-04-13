@@ -2,6 +2,6 @@
 Repo with practice projects created with tailwdincss.
 
 ## Mobile Food App
-Home Screen https://play.tailwindcss.com/NwgFjMtKcF
+Home Screen https://play.tailwindcss.com/bIrvX2CnrR
 
-Details Screen https://play.tailwindcss.com/jG1NVM20eH
+Details Screen https://play.tailwindcss.com/Yei0IOaDSz
