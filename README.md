@@ -1,4 +1,6 @@
-# Mobile Food App
+# Tailwindcss
+Repo with practice projects created with tailwdincss.
 
-Home Screen from [mobile food app](https://play.tailwindcss.com/NwgFjMtKcF), inspired by [template](https://dribbble.com/shots/15272476-Food-Mobile-App).
+## Mobile Food App
+Home Screen https://play.tailwindcss.com/NwgFjMtKcF
 
